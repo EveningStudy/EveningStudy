@@ -1,5 +1,5 @@
 <div align="center">
-<strong>Year 1 MEng Robotics and Artificial Intelligence student at UCL</strong>
+<strong>Hi there! 👋 I’m a first-year MEng Robotics and Artificial Intelligence student at UCL.</strong>
 
 <br>
 <br>
