@@ -3,6 +3,6 @@
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=EveningStudy&show_icons=true&hide_border=true&theme=github_dark&title_color=F778BA&icon_color=F778BA" alt="GitHub stats">
+<img src="https://github-stats-extended.vercel.app/api?username=EveningStudy&show_icons=true&hide_border=true&theme=github_dark&title_color=F778BA&icon_color=F778BA"&alt="GitHub stats"&include_all_commits=true&show=all_time_contribs&hide=contribs>
 
 </div>
