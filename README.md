@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F778BA,100:8957E5&height=170&section=header&text=Wang%20Zixin&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=MEng%20Robotics%20%26%20AI%20%C2%B7%20UCL&descSize=16&descAlignY=58" width="100%" alt="Wang Zixin" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F778BA,100:8957E5&height=170&section=header&text=Wang%20Zixin&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=MEng%20Robotics%20%26amp%3B%20AI%20%C2%B7%20UCL&descSize=16&descAlignY=58" width="100%" alt="Wang Zixin" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=F778BA&center=true&vCenter=true&width=560&lines=Future+robotics+engineer+in+the+making;Open-source+enthusiast;Speedcuber+who+codes+tools+for+the+cube" alt="Future robotics engineer in the making · Open-source enthusiast · Speedcuber who codes tools for the cube" />
 
