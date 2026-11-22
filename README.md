@@ -58,10 +58,10 @@ Hi there! 👋 I'm Zixin, but feel free to call me Chris. I'm a first-year **MEn
 
 | Project | What it is |
 | --- | --- |
+| [tailclip](https://github.com/EveningStudy/tailclip) | Private clipboard across Windows, iPhone, iPad and Mac over your own Tailscale network: single-file Python relay, no dependencies |
 | [cat-dog-breed-classifier](https://github.com/EveningStudy/cat-dog-breed-classifier) | Cat and dog breed classifier: PyTorch training, ONNX Runtime inference and a Flask web app showing the top 5 results |
 | [image-text-redactor](https://github.com/EveningStudy/image-text-redactor) | Finds the text in an image and pixelates all of it, or only the blocks you click |
 | [qian-estate](https://github.com/EveningStudy/qian-estate) | Property collaboration platform: WeChat mini-programs for owners and agents, with an admin console and server |
 | [fourier-synthesizer](https://github.com/EveningStudy/fourier-synthesizer) | Square, sawtooth and triangle waves built from 1–7 sine harmonics, drawn live on an ST7789 LCD (Verilog, Tang Nano 9K) |
 | [st7789-fpga-driver](https://github.com/EveningStudy/st7789-fpga-driver) | SPI driver for a 1.14″ 240×135 ST7789 LCD on the Gowin GW1NR-9C |
-| [obsidian-github-backup-windows](https://github.com/EveningStudy/obsidian-github-backup-windows) | Commits and pushes an Obsidian vault to GitHub on a schedule with Windows Task Scheduler |
 | [bili-migrate](https://github.com/EveningStudy/bili-migrate) | Windows CLI that backs up and republishes your own Bilibili videos, metadata and pinned comments |
