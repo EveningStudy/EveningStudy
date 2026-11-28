@@ -37,19 +37,26 @@ Hi there! 👋 I'm Zixin, but feel free to call me Chris. I'm a first-year **MEn
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <img src="https://github.com/EveningStudy/asmr-dubber/raw/HEAD/design/icon.svg" width="40" align="left" alt="" />
       <a href="https://github.com/EveningStudy/asmr-dubber"><b>asmr-dubber</b></a>
       <img src="https://img.shields.io/github/stars/EveningStudy/asmr-dubber?style=flat&color=F778BA&logo=github&label=stars" alt="stars" /><br>
       <sub>JA / EN / ZH media → Chinese or English dubbing and subtitles, with voice cloning and vocal separation.</sub><br><br>
-      <img src="https://github.com/EveningStudy/asmr-dubber/raw/HEAD/assets/screenshots/zh/step3-done.png" width="360" alt="asmr-dubber workspace" />
+      <img src="https://github.com/EveningStudy/asmr-dubber/raw/HEAD/assets/screenshots/zh/step3-done.png" width="260" alt="asmr-dubber workspace" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <img src="https://github.com/EveningStudy/books-plus/raw/HEAD/design/icon.svg" width="40" align="left" alt="" />
       <a href="https://github.com/EveningStudy/books-plus"><b>books-plus</b></a>
       <img src="https://img.shields.io/github/stars/EveningStudy/books-plus?style=flat&color=F778BA&logo=github&label=stars" alt="stars" /><br>
       <sub>A Windows / macOS reader that syncs with Apple Books: cloud library, progress, notes, read-aloud and desktop subtitles.</sub><br><br>
-      <img src="https://github.com/EveningStudy/books-plus/raw/HEAD/docs/assets/screenshots/library-grid.png" width="360" alt="Books+ library" />
+      <img src="https://github.com/EveningStudy/books-plus/raw/HEAD/docs/assets/screenshots/library-grid.png" width="260" alt="Books+ library" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://github.com/EveningStudy/verre/raw/HEAD/apps/desktop/icon.svg" width="40" align="left" alt="" />
+      <a href="https://github.com/EveningStudy/verre"><b>verre</b></a>
+      <img src="https://img.shields.io/github/stars/EveningStudy/verre?style=flat&color=F778BA&logo=github&label=stars" alt="stars" /><br>
+      <sub>Lightweight native UI (~14 MB Rust) for Claude Code, Codex, Cursor, Antigravity &amp; 21+ ACP agents — zero injection.</sub><br><br>
+      <img src="https://github.com/EveningStudy/verre/raw/HEAD/docs/images/en/hero.webp" width="260" alt="Verre workspace" />
     </td>
   </tr>
 </table>
