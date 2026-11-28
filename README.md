@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Zixin, but feel free to call me Chris. I'm a first-year **MEng Robotics and Artificial Intelligence** student at **UCL**.
 
 - 🤖 Learning to build robots, with the goal of becoming a robotics engineer
-- 🌱 Open-source enthusiast: I build and maintain [**asmr-dubber**](https://github.com/EveningStudy/asmr-dubber), an AI dubbing and subtitle tool, and [**books-plus**](https://github.com/EveningStudy/books-plus), a reader that syncs with Apple Books on Windows and macOS
+- 🌱 Open-source enthusiast: I build and maintain [**asmr-dubber**](https://github.com/EveningStudy/asmr-dubber), an AI dubbing and subtitle tool, [**books-plus**](https://github.com/EveningStudy/books-plus), a reader that syncs with Apple Books on Windows and macOS, and [**verre**](https://github.com/EveningStudy/verre), a lightweight native UI for local coding agents
 - 🧩 Speedcuber who also writes little tools for the cube, like [bld-memo-trainer](https://github.com/EveningStudy/bld-memo-trainer) for blindfolded memo practice
 
 ### 📊 GitHub stats
